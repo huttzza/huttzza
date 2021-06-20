@@ -1,4 +1,4 @@
-### Hi there 👋
+### Huttzza 👾, Sumin Kim
 
 <!--
 **huttzza/huttzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,8 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuttzza&count_bg=%23EBDC19&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
   </div>
+
+* ML project
+  * **Face Recognition w/ Arduino** (Team Project, 2021.01)
+  * **Room Style Classifier** (Internship, Personal Project, 2021.03-04)
+  * **DeepFloorplan - Floorplan wall detector** (Internship, Personal Project, 2021.04-06)
