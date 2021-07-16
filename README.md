@@ -25,3 +25,10 @@ Here are some ideas to get you started:
   * **Face Recognition w/ Arduino** (Team Project, 2021.01)
   * **Room Style Classifier** (Internship, Personal Project, 2021.03-04)
   * **DeepFloorplan - Floorplan wall detector** (Internship, Personal Project, 2021.04-06)
+
+<br><br>
+  <div align="center">
+  
+  [![Huttzza's GitHub stats](https://github-readme-stats.vercel.app/api?username=huttzza&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
