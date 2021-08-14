@@ -15,20 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
   <div align="right">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuttzza&count_bg=%23EBDC19&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
   </div>
+-->
 
 * ML project
   * **Face Recognition w/ Arduino** (Team Project, 2021.01)
   * **Room Style Classifier** (Internship, Personal Project, 2021.03-04)
   * **DeepFloorplan - Floorplan wall detector** (Internship, Personal Project, 2021.04-06)
 
+<!--
 <br><br>
   <div align="center">
   
   [![Huttzza's GitHub stats](https://github-readme-stats.vercel.app/api?username=huttzza&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
+-->
