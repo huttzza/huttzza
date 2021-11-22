@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 -->
 
 * ML project
-  * **Face Recognition w/ Arduino** (Team Project, 2021.01-02, 2021.07-09)
+  * **Face Recognition w/ Arduino** (Team Project, 2021.01-02)
   * **Room Style Classifier** (Internship, Personal Project, 2021.03-04)
   * **DeepFloorplan - Floorplan wall detector** (Internship, Personal Project, 2021.04-06)
-  * **Yorizori - yolov5** (Capstone Design, Team Project, 2021.09-)
+  * **Yorizori - yolov5** (Capstone Design, Team Project, 2021.09-) Ingredients Object Detection
 * Application
-  * **Yorizori - Flutter** (Capstone Design, Team Project, 2021.09-)
-  * **emPty - Flutter** (Capstone Design, Team Project, 2021.09-)
+  * **Face Recognition App** (Team Project, 2021.07-09) Django, Flutter
+  * **Yorizori - Flutter** (Capstone Design, Team Project, 2021.09-) Django, Flutter
+  * **emPty - Flutter** (Capstone Design, Team Project, 2021.09-) Flask, Flutter
 
 <!--
 <br><br>
