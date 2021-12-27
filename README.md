@@ -22,16 +22,26 @@ Here are some ideas to get you started:
   
   </div>
 -->
-
-* ML project
-  * **Face Recognition w/ Arduino** (Team Project, 2021.01-02)
-  * **Room Style Classifier** (Internship, Personal Project, 2021.03-04)
+  * [**Face Recognition w/ Arduino**](https://github.com/cspc-hoody/face-detection) (Team Project, 2021.01-02) Python, Arduino
+    * ML : dlib, python
+    * Arduino : ✋LED 출력
+  * [**Room Style Classifier**](https://github.com/huttzza/Room-Style-Classifier) (Internship, Personal Project, 2021.03-04)
   * **DeepFloorplan - Floorplan wall detector** (Internship, Personal Project, 2021.04-06)
-  * **Yorizori - yolov5** (Capstone Design, Team Project, 2021.09-) Ingredients Object Detection
-* Application
   * **Face Recognition App** (Team Project, 2021.07-09) Django, Flutter
-  * **Yorizori - Flutter** (Capstone Design, Team Project, 2021.09-) Django, Flutter
-  * **emPty - Flutter** (Capstone Design, Team Project, 2021.09-) Flask, Flutter
+    * ML : dlib
+    * [Backend](https://github.com/huttzza/cspc_recog_server) : Django, sqlite -✋ calendar
+    * [Frontend](https://github.com/huttzza/cspc_recog_app) : Flutter -✋ 일정 화면 구성
+  * **Yorizori - Flutter** (Capstone Design, Team Project, 2021.09-) Django, Python, Flutter
+    * ML : ✋YOLO v5
+    * [Crawling](https://github.com/huttzza/yorizori_recipe_crawling) : Python -✋ save in csv, selenium
+    * [Backend](https://github.com/huttzza/yorizori_server) : Django, sqlite -✋ db_uploader, detect_ingrd 
+    * [Frontend](https://github.com/huttzza/yorizori_app) : Flutter -✋ User 화면 구성
+  * **emPty - Flutter** (Capstone Design, Team Project, 2021.09-) Flask, Flutter, Raspberry Pi
+    * ML : detectron Domain Adaptation Faster-R-CNN
+    * [Backend - raspberry pi server](https://github.com/huttzza/empty_pi_server) : Flask, pi camera ✋
+    * [Backend - main server](https://github.com/huttzza/empty_main_server) : Flask ✋
+    * [Frontend - admin program](https://github.com/Park323/empty_admin) : Python, Opencv
+    * [Frontend - app](https://github.com/huttzza/empty_app) : Flutter ✋
 
 <!--
 <br><br>
