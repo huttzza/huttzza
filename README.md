@@ -31,18 +31,19 @@ Here are some ideas to get you started:
     * ML : dlib
     * [Backend](https://github.com/huttzza/cspc_recog_server) : Django, sqlite -✋ calendar
     * [Frontend](https://github.com/huttzza/cspc_recog_app) : Flutter -✋ 일정 화면 구성
-  * **Yorizori - Flutter** (Capstone Design, Team Project, 2021.09-) Django, Python, Flutter
+  * **Yorizori : Ingredients Recognition & Recipe Recommend App** (Capstone Design, Team Project, 2021.09-12) Django, Python, Flutter
     * ML : ✋YOLO v5
     * [Crawling](https://github.com/huttzza/yorizori_recipe_crawling) : Python -✋ save in csv, selenium
     * [Backend](https://github.com/huttzza/yorizori_server) : Django, sqlite -✋ db_uploader, detect_ingrd 
     * [Frontend](https://github.com/huttzza/yorizori_app) : Flutter -✋ User 화면 구성
-  * **emPty - Flutter** (Capstone Design, Team Project, 2021.09-) Flask, Flutter, Raspberry Pi
+  * **emPty : Parking lot Recogniton Program & App** (Capstone Design, Team Project, 2021.09-12) Flask, Flutter, Raspberry Pi
     * ML : detectron Domain Adaptation Faster-R-CNN
     * [Backend - raspberry pi server](https://github.com/huttzza/empty_pi_server) : Flask, pi camera ✋
     * [Backend - main server](https://github.com/huttzza/empty_main_server) : Flask ✋
     * [Frontend - admin program](https://github.com/Park323/empty_admin) : Python, Opencv
     * [Frontend - app](https://github.com/huttzza/empty_app) : Flutter ✋
-
+  * [**Top : Exhibition Search Site**](https://github.com/huttzza/Top) (Team Project, 2021.12) PHP, MySQL, HTML, CSS, JS, Jquery
+    * ✋ Crawling, Frontend
 <!--
 <br><br>
   <div align="center">
