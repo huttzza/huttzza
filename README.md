@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   
   </div>
 -->
+<!--
   * [**Face Recognition w/ Arduino**](https://github.com/cspc-hoody/face-detection) (Team Project, 2021.01-02) Python, Arduino
     * ML : dlib, python
     * Arduino : ✋LED 출력
@@ -44,6 +45,14 @@ Here are some ideas to get you started:
     * [Frontend - app](https://github.com/huttzza/empty_app) : Flutter ✋
   * [**Top : Exhibition Search Site**](https://github.com/huttzza/Top) (Team Project, 2021.12) PHP, MySQL, HTML, CSS, JS, Jquery
     * ✋ Crawling, Frontend
+-->
+  * [**Face Recognition w/ Arduino**](https://github.com/cspc-hoody/face-detection) (Team Project, 2021.01-02) Python, Arduino
+  * [**Room Style Classifier**](https://github.com/huttzza/Room-Style-Classifier) (Internship, Personal Project, 2021.03-04)
+  * **DeepFloorplan - Floorplan wall detector** (Internship, Personal Project, 2021.04-06)
+  * **Face Recognition App** (Team Project, 2021.07-09) Django, Flutter
+  * **Yorizori : Ingredients Recognition & Recipe Recommend App** (Capstone Design, Team Project, 2021.09-12) Django, Python, Flutter
+  * **emPty : Parking lot Recogniton Program & App** (Capstone Design, Team Project, 2021.09-12) Flask, Flutter, Raspberry Pi
+  * [**Top : Exhibition Search Site**](https://github.com/huttzza/Top) (Team Project, 2021.12) PHP, MySQL, HTML, CSS, JS, Jquery
 <!--
 <br><br>
   <div align="center">
